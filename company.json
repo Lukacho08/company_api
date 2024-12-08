@@ -1,5 +1,5 @@
-{
-  "0": {
+[
+  {
     "name": "Vortex Fitness | დიდი დიღომი",
     "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-4443-665d3dbc1c976.png",
     "cordinats": {
@@ -7,4 +7,4 @@
       "targetLon": 44.753655253886556
     }
   }
-}
+]
