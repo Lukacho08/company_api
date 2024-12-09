@@ -35,8 +35,8 @@
     "name": "Sakemata • საკემატა | ისთ ფოინთი",
     "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2082-6602ca4cae079.JPG",
     "cordinats": {
-      "targetLat": 41.7910053,
-      "targetLon": 44.8114283
+      "targetLat": 41.7905366,
+      "targetLon": 44.8183735      
     }
   },
   {
@@ -51,8 +51,8 @@
     "name": "Black Sea 2 • ბლექ სი 2",
     "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-1568-632996f1ae15a.jpeg",
     "cordinats": {
-      "targetLat": 41.79234360611461,
-      "targetLon": 44.81458152674134
+      "targetLat": 41.7910053,
+      "targetLon": 44.8114283
     }
   }
 ]
