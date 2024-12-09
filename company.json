@@ -30,5 +30,29 @@
       "targetLat": 41.787215271567234,
       "targetLon": 44.753655253886556
     }
-  }
+  },
+    {
+    "name": "Sakemata • საკემატა | ისთ ფოინთი",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2082-6602ca4cae079.JPG",
+    "cordinats": {
+      "targetLat": 41.787215271567234,
+      "targetLon": 44.753655253886556
+    }
+  },
+    {
+    "name": "Fitness Time • ფიტნეს თაიმ",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2186-6535fe78bb88f.png",
+    "cordinats": {
+      "targetLat": 41.787215271567234,
+      "targetLon": 44.753655253886556
+    }
+  },
+    {
+    "name": "Black Sea 2 • ბლექ სი 2",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-1568-632996f1ae15a.jpeg",
+    "cordinats": {
+      "targetLat": 41.787215271567234,
+      "targetLon": 44.753655253886556
+    }
+  },
 ]
