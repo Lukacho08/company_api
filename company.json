@@ -62,5 +62,21 @@
       "targetLat": 41.76881433873366,
       "targetLon": 44.79385807563541
     }
-  }
+  },
+  {
+    "name": "Vision Academy",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-1917-632c0c047cc15.jpeg",
+    "cordinats": {
+      "targetLat": 41.7655658386756,
+      "targetLon": 44.79077510649298
+    }
+  },
+  {
+    "name": "Mamber fitness • მამბერ ფიტნესი",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2132-6509442031baa.JPG",
+    "cordinats": {
+      "targetLat": 41.75055295363965, 
+      "targetLon": 44.78570637158657
+    }
+  },
 ]
