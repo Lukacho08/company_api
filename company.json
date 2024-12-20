@@ -78,5 +78,13 @@
       "targetLat": 41.75055295363965, 
       "targetLon": 44.78570637158657
     }
+  },
+  {
+    "name": "Poolinaria • პულინარია",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2650-66052d3162b05.jpeg",
+    "cordinats": {
+      "targetLat": 41.750323384466185, 
+      "targetLon": 44.7807780588972
+    }
   }
 ]
